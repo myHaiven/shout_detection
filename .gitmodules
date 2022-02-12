@@ -1,0 +1,3 @@
+[submodule "voice_toolbox"]
+	path = voice_toolbox
+	url = git@github.com:ehughson/voice_toolbox.git
